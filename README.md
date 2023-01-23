@@ -6,7 +6,7 @@
 
 <h2>🕧Currently Working on</h2>
 
-- [Coming soon](Coming soon)
+- [Controlling VLC with Raspberry Pi](Coming soon)
 
 
 <h2> 🤳 Connect with me:</h2>
