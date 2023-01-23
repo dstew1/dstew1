@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-  - [Coming Soon](Coming soon)
+  - [Programming Practice](https://github.com/dstew1/Practice-Programming)
 
 <h2>🕧Currently Working on</h2>
 
