@@ -6,7 +6,7 @@
 
 <h2>🕧Currently Working on</h2>
 
-- [Raspberry Pi Project]("Jonas" A Helpful Voice Assistant)
+- [Jonas Voice Assistant]("Jonas" A Helpful Voice Assistant)
 
 
 <h2> 🤳 Connect with me:</h2>
