@@ -6,7 +6,7 @@
 
 <h2>🕧Currently Working on</h2>
 
-- [Jonas Voice Assistant](["Jonas" A Helpful Voice Assistant](https://github.com/dstew1/Jonas))
+- [Jonas, a helpful Voice Assistant](https://github.com/dstew1/Jonas)
 
 
 <h2> 🤳 Connect with me:</h2>
