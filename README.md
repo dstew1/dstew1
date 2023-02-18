@@ -1,4 +1,4 @@
-<h1>Hi, I'm Daniel! <br/><a href="https://www.linkedin.com/in/daniel-stewart-programming/">Programming Student</a></h1>
+<h1>Hi, I'm Daniel! <br/><a href="https://www.linkedin.com/in/daniel-stewart-programming/">Software Designer and Developer</a></h1>
 
 <h2>👨‍💻 Programming Projects and Practice:</h2>
 
