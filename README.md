@@ -1,8 +1,8 @@
 <h1>Hi, I'm Daniel! <br/><a href="https://www.linkedin.com/in/daniel-stewart-programming/">Software Designer and Developer</a></h1>
 
-<h2>👨‍💻 Programming Projects and Practice:</h2>
+<h2>👨‍💻 Recent Projects:</h2>
 
-  - [Programming Practice](https://github.com/dstew1/Practice-Programming)
+  - [VLC Mediaplayer Control via Python](https://github.com/dstew1/VLCController)
 
 <h2>🕧Currently Working on</h2>
 
