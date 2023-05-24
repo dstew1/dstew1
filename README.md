@@ -9,7 +9,7 @@
 
 <h2>🕧Currently Working on</h2>
 
-- [Store Sales - Time Series Forecasting](https://github.com/dstew1/Jonas](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data)
+- [Store Sales - Time Series Forecasting](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data)
 
 
 <h2> 🤳 Connect with me:</h2>
