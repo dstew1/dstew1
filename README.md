@@ -10,7 +10,7 @@
 
 <h2>🕧Currently Working on</h2>
 
-- [Store Sales - Time Series Forecasting](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data)
+- [Brainstorming...](https://en.wikipedia.org/wiki/Brainstorming)
 
 
 <h2> 🤳 Connect with me:</h2>
