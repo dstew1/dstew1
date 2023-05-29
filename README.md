@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Recent Projects:</h2>
 
+  - [Store Sales - Time Series Forecasting](https://github.com/dstew1/Store-Sales-Time-Series-Forecasting)
   - [TitanicDecisionTree](https://github.com/dstew1/TitanicDecisionTree)
   - [LinearRegression Problem](https://github.com/dstew1/LinearRegression)
   - [VLC Mediaplayer Control via Python](https://github.com/dstew1/VLCController)
