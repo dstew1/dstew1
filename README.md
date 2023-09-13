@@ -5,7 +5,6 @@
   - [Store Sales - Time Series Forecasting](https://github.com/dstew1/Store-Sales-Time-Series-Forecasting)
   - [TitanicDecisionTree](https://github.com/dstew1/TitanicDecisionTree)
   - [LinearRegression Problem](https://github.com/dstew1/LinearRegression)
-  - [Time-Series Tableau](https://github.com/dstew1/TimeSeriesCompTableau/blob/main/TimeSeriesTableau.JPG)
   - [My First CNN Model](https://github.com/dstew1/FirstCNNModel)
 
 <h2>🕧Currently Working on</h2>
