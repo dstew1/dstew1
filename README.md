@@ -2,14 +2,13 @@
 
 <h2>👨‍💻 Recent Projects:</h2>
 
-  - [Store Sales - Time Series Forecasting](https://github.com/dstew1/Store-Sales-Time-Series-Forecasting)
-  - [OOPStrategyDesignUnitConverter](https://github.com/dstew1/OOPStrategyPattern)
-  - [JDBCServletPeerTutorRegistration](https://github.com/dstew1/JDBCServletPeerTutorRegistration)
+  - [Artificial Neural Network - Predicting Bank Customer Churn](https://github.com/dstew1/ANNBankChurn)
   - [My First CNN Model](https://github.com/dstew1/FirstCNNModel)
+  - [The Game](https://welcometothegame.ca/)
 
 <h2>🕧Currently Working on</h2>
 
-- [Brainstorming...](https://en.wikipedia.org/wiki/Brainstorming)
+- [Learning More Deep Learning...](https://en.wikipedia.org/wiki/Deep_learning)
 
 
 <h2> 🤳 Connect with me:</h2>
