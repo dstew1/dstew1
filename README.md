@@ -9,6 +9,7 @@
 <h2>🕧Currently Working on</h2>
 
 - [Learning More Deep Learning...](https://en.wikipedia.org/wiki/Deep_learning)
+- [Building A Product For The AgeTech Sector](https://en.wikipedia.org/wiki/Gerontechnology)
 
 
 <h2> 🤳 Connect with me:</h2>
