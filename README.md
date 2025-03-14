@@ -3,7 +3,7 @@
 <h2>👨‍💻 Recent Projects:</h2>
 
   - [Artificial Neural Network - Predicting Bank Customer Churn](https://github.com/dstew1/ANNBankChurn)
-  - [My First CNN Model](https://github.com/dstew1/FirstCNNModel)
+  - [Synthetic Dataset Generator](https://github.com/dstew1/SyntheticDatasetGenerator)
   - [The Game](https://welcometothegame.ca/)
 
 <h2>🕧Currently Working on</h2>
