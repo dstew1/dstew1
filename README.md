@@ -4,7 +4,7 @@
 
   - [Artificial Neural Network - Predicting Bank Customer Churn](https://github.com/dstew1/ANNBankChurn)
   - [Synthetic Dataset Generator](https://github.com/dstew1/SyntheticDatasetGenerator)
-  - [The Game](https://welcometothegame.ca/)
+  - [The Game](https://github.com/dstew1/The-Game)
 
 <h2>🕧Currently Working on</h2>
 
