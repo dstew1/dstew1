@@ -5,6 +5,7 @@
   - [Artificial Neural Network - Predicting Bank Customer Churn](https://github.com/dstew1/ANNBankChurn)
   - [Synthetic Dataset Generator](https://github.com/dstew1/SyntheticDatasetGenerator)
   - [The Game](https://github.com/dstew1/The-Game)
+  - [Kaggle Housing Price Prediction](https://github.com/dstew1/housingpriceprediction)
 
 <h2>🕧Currently Working on</h2>
 
