@@ -13,6 +13,9 @@
 - [Building A Product For The AgeTech Sector](https://en.wikipedia.org/wiki/Gerontechnology)
 - [Financial Data Science](https://ca.finance.yahoo.com/)
 
+<h2>📝 Recent Blog Posts</h2>
+
+- [Brookfield Renewable Corporation ($BEPC) Financial Analysis](https://www.becomingdanielstewart.com/posts/$BEPC-analysis.html)
 
 <h2> 🤳 Connect with me:</h2>
 
