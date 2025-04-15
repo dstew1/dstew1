@@ -1,9 +1,9 @@
 <h1>Hi, I'm Daniel! <br/><a href="https://www.linkedin.com/in/daniel-stewart-programming/"></a></h1>
 
 <h2>👨‍💻 Recent Projects:</h2>
-
+  
+  - [Open Source Valuation Toolkit](https://github.com/dstew1/valuation-toolkit)
   - [Artificial Neural Network - Predicting Bank Customer Churn](https://github.com/dstew1/ANNBankChurn)
-  - [Synthetic Dataset Generator](https://github.com/dstew1/SyntheticDatasetGenerator)
   - [The Game](https://github.com/dstew1/The-Game)
   - [Kaggle Housing Price Prediction](https://github.com/dstew1/housingpriceprediction)
 
@@ -15,6 +15,7 @@
 
 <h2>📝 Recent Blog Posts</h2>
 
+- [Ryft: The Infrastructure Startup Hiding Inside Your Favorite Platforms](https://www.becomingdanielstewart.com/posts/ryft.html)
 - [Brookfield Renewable Corporation ($BEPC) Financial Analysis](https://www.becomingdanielstewart.com/posts/$BEPC-analysis.html)
 
 <h2> 🤳 Connect with me:</h2>
