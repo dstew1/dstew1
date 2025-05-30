@@ -9,7 +9,7 @@
 <h2>🕧Currently Working on/Learning?</h2>
 
 - [Learning More Deep Learning...](https://en.wikipedia.org/wiki/Deep_learning)
-- [Building A Product For The AgeTech Sector](https://en.wikipedia.org/wiki/Gerontechnology)
+- [Building Phone Scam Prevention Software](https://en.wikipedia.org/wiki/Phone_fraud)
 - [Financial Data Science](https://ca.finance.yahoo.com/)
 
 <h2>📝 Recent Blog Posts</h2>
