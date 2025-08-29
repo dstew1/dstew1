@@ -1,19 +1,12 @@
 <h1>Hi, I'm Daniel! <br/><a href="https://www.linkedin.com/in/daniel-stewart-programming/"></a></h1>
 
-<h2>Current Company</h2>
+<h2>🏒NHL Level Analytics For Amateur Hockey</h2>
 
 - [Drive Hockey Analytics](https://drivehockey.com/)
 
-<h2>👨‍💻 Recent Projects:</h2>
-  
-  - [Open Source Valuation Toolkit](https://github.com/dstew1/valuation-toolkit)
-  - [The Game](https://github.com/dstew1/The-Game)
+<h2>🕧Currently Side Project</h2>
 
-<h2>🕧Currently Working on/Learning?</h2>
-
-- [Learning More Deep Learning...](https://en.wikipedia.org/wiki/Deep_learning)
-- [Building Phone Scam Prevention Software](https://en.wikipedia.org/wiki/Phone_fraud)
-- [Financial Data Science](https://ca.finance.yahoo.com/)
+- [📱Phone Scam Prevention Technology](https://en.wikipedia.org/wiki/Phone_fraud)
 
 <h2>📝 Recent Blog Posts</h2>
 
