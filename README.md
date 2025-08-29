@@ -1,7 +1,8 @@
 <h1>Hi, I'm Daniel! <br/><a href="https://www.linkedin.com/in/daniel-stewart-programming/"></a></h1>
 
-<h2>Currently Working At:</h2>
-[Drive Hockey Analytics](https://drivehockey.com/)
+<h2>Current Company</h2>
+
+- [Drive Hockey Analytics](https://drivehockey.com/)
 
 <h2>👨‍💻 Recent Projects:</h2>
   
