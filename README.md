@@ -6,7 +6,7 @@
 
 <h2>🕧Currently Side Project</h2>
 
-- [📱Phone Scam Prevention Technology](https://en.wikipedia.org/wiki/Phone_fraud)
+- [Investment Platform](https://en.wikipedia.org/wiki/Investment)
 
 <h2>📝 Recent Blog Posts</h2>
 
